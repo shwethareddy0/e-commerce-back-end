@@ -4,14 +4,14 @@
 
 E-commerce Back End is an application that provides APIs to create, update,delete and view the all the product with the associated categories and the tags.
 
-This application uses the MySQL to store the database, Sequelize as an ORM application and the dotenv package to use the environment to store the sensitive information of the user.
+This application uses the MySQL to store the database, Sequelize as an ORM application and the dotenv to use the environment to store the sensitive information of the user.
 
 Here is a walkthrough [video]() demonstrating the functionality of the application.
 
 ### Features
 
 - Easy to modify
-- Provides APIs to view,add,update and delete the products, categories and tags.
+- Provides APIs to view, add, update and delete the products, categories and tags.
 
 ## Table of Contents
 
